@@ -111,12 +111,6 @@ python portfolio_analysis.py
 4. Regularly review risk profile and rebalance
 ```
 
-
-## 📦 Included Output Files
-
-The full project source is split into modules and included as:
-`soc2_split_files.zip`
-
 ## 📌 Notes
 
 - The model uses 4-bit quantization and LoRA to make training efficient on consumer GPUs.
