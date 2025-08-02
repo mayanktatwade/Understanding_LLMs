@@ -117,6 +117,3 @@ python portfolio_analysis.py
 - For production, integrate with Gradio or Streamlit for UI, or expose as an API via FastAPI.
 - FAISS + Sentence Transformers provides fast, meaningful retrieval over long documents.
 
-Let me know if you want this README as a downloadable file or included inside your ZIP archive!
-
-
