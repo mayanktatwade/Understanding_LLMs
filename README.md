@@ -2,8 +2,6 @@
 
 The link to my report - https://drive.google.com/file/d/1OyuC2Pn8QGH6qE5e8AEhfu5FzmgotlgS/view?usp=sharing
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Here is a complete README.md for your project, summarizing all modules and showcasing key outputs:
 
 💼 Financial LLM Assistant
