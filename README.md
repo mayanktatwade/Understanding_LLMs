@@ -2,8 +2,6 @@
 
 The link to my report - https://drive.google.com/file/d/1OyuC2Pn8QGH6qE5e8AEhfu5FzmgotlgS/view?usp=sharing
 
-# Here is a complete README.md for your project, summarizing all modules and showcasing key outputs:
-
 💼 Financial LLM Assistant
 A modular AI-driven assistant designed for financial document analysis, chatbot interaction, summarization, and investment portfolio evaluation. This project leverages Hugging Face Transformers, PEFT LoRA fine-tuning, FAISS for retrieval, and SentenceTransformers for embeddings.
 
